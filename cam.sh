@@ -13,9 +13,7 @@ printf "\e[1;92m       ⁪⁬⁮⁮⁮⁮         ⁪⁬⁮⁮⁮⁮   \e[0m\e"
 printf "\e[1;92m       ⁪⁬⁮⁮⁮⁮         ⁪⁬⁮⁮⁮⁮   \e[0m\e"
 
 printf "\e[1;92m   Hack028 @DrNonSafe\e[0m\e   \e[0m\n"
-printf "\e[1;92m   Channel Telegram : T.me/Hack028\e[0m                                 \n"
-
-printf " \e[1;77m v1.0 coded by https://github.com/HACKGM/cam\e[0m \n"
+printf "\e[1;92m   Channel Telegram : T.me/Hack028\e[0m                               
 
 printf "\n"
 
